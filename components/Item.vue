@@ -23,7 +23,8 @@ export default {
 </script>
 <style>
 .daily-item{
-    padding: 20px 0 20px 10px;
+    padding: 20px 10px 20px 10px;
+    text-align: center;
 }
 .daily-item:hover{
     background-color: #f5f6f9;
